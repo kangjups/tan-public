@@ -3,7 +3,7 @@
 Created on Sat Apr 30 21:00:10 2022
 
 @author: angel
-
+수정
 """
 
 import pygame
